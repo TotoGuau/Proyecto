@@ -1,0 +1,5 @@
+[
+    {"Codigo":"1","Nombre":"Producto1","Descripcion":"Descripcion1","Cantidad":"1","Precio":"1"},
+    {"Codigo":"2","Nombre":"Producto2","Descripcion":"Descripcion2","Cantidad":"2","Precio":"2"},
+    {"Codigo":"3","Nombre":"Producto3","Descripcion":"Descripcion3","Cantidad":"3","Precio":"3"}
+]

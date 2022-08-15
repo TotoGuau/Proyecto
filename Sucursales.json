@@ -1,0 +1,5 @@
+[
+    {"Codigo":"1","Nombre":"Sucursal1","Direccion":"1AV","Correo":"SUCURSAL1@CORREO","Telefono":"1"},
+    {"Codigo":"2","Nombre":"Sucursal2","Direccion":"2AV","Correo":"SUCURSAL2@CORREO","Telefono":"2"},
+    {"Codigo":"3","Nombre":"Sucursal3","Direccion":"3AV","Correo":"SUCURSAL3@CORREO","Telefono":"3"}
+]

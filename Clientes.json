@@ -1,0 +1,5 @@
+[
+    {"Codigo":"1","Nombre":"Nombre1","NIT":"11","Correo":"CLIENTE1@CORREO","Genero":"H"},
+    {"Codigo":"2","Nombre":"Nombre2","NIT":"22","Correo":"CLIENTE2@CORREO","Genero":"M"},
+    {"Codigo":"3","Nombre":"Nombre3","NIT":"33","Correo":"CLIENTE3@CORREO","Genero":"H"}
+]
